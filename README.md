@@ -1,6 +1,6 @@
 # Hi, I'm Xander
 
-A Systems and Networking technician currently wrapping up a year-long deep dive into the Cisco CCNA stack.
+A Systems and Networking technician currently wrapping up a year-long deep dive into enterprise networking and systems administration.
 
 ## About Me
 
