@@ -1,6 +1,8 @@
-I'm Xander, a Systems and Networking technician currently wrapping up a year-long deep dive into the Cisco CCNA stack.
+Hi I'm Xander, 
+a Systems and Networking technician currently wrapping up a year-long deep dive into the Cisco CCNA stack.
 My approach to tech is a mix of formal training and a "learn by breaking things" mentality in my home lab. 
-I’ve never been satisfied with just making things work; I want to know exactly how the data flows from the copper wire to the application.
+I’ve never been satisfied with just making things work; 
+I want to know exactly how the data flows from the copper wire to the application.
 
 Over the last year, I’ve moved past the basics and into the enterprise side of things. 
 I spend a lot of my time in the CLI working with OSPF, VLAN segmentation, and securing the enterprise edge. 
