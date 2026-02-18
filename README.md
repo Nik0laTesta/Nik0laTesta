@@ -1,16 +1,29 @@
 # Hi, I'm Xander
 
 A Systems and Networking technician currently wrapping up a year-long deep dive into enterprise networking and systems administration.
+Currently trying to get into the IT field. Making a Career change! Or at least trying to. 
+
+Dus indien jij, beste lezer, een werkgever bent die graag met enthousiaste, leergierige, pientere mensen werk.. zoek niet verder! 
 
 ## About Me
 
-My approach to tech is a mix of formal training and a "learn by breaking things" mentality in my home lab. I've never been satisfied with just making things work — I want to know exactly how the data flows from the copper wire to the application.
+My approach to tech is a mix of formal training and a "learn by breaking things" mentality in my home lab, I have the piles of broken electronics to prove it. 
+I've never been satisfied with just having things work — I want to know exactly how the things function. 
+If you ask someone how does this work and they say "it just does". That does not compute for me. 
+It does untill it does'nt. And if you know how it is supposed to fit together and work you will be able to trouble shoot and repair if it is no longer fitting together and working.
 
-Over the last year, I've moved past the basics and into the enterprise side of things. I spend a lot of my time in the CLI working with OSPF, VLAN segmentation, and securing the enterprise edge. On the systems side, I manage Windows Server environments with a focus on Active Directory and the AGDLP security model. I also handle Linux administration, from managing file systems to hardening system security.
+Over the last year, I've moved past the basics and into the enterprise side of things. I spend a lot of my time in the CLI working with OSPF, VLAN segmentation, and securing the enterprise edge. On the systems side, I managed Windows Server environments with a focus on Active Directory and the AGDLP security model. I also handled Linux administration, from managing file systems to hardening system security.
 
 ## Philosophy
 
-I'm a big believer in the "work smarter, not harder" approach. If a task needs to be done more than once, I'm probably writing a Bash or C# script to automate it. This mindset carries over into my hardware and IoT projects, where I've built everything from a motion-triggered wildlife camera system on a Raspberry Pi to a custom Math Clock using an ATMega328P. I'm just as comfortable with a soldering iron and a breadboard as I am configuring a trunk port or a GPO.
+I'm a big believer in the "work smarter, not harder" approach. If a task needs to be done more than once, I'm probably trying to automate it. This mindset carries over into my hardware and IoT projects, where I've built everything I could think of. 
+
+A couple fun projects can be found on this github. 
+A gyro powered drink protector, you could strap it to you drink or bag or whatever you like, and hit a button. When the drink would move/tilt in any way out of the accepted norm it would trigger an alarm. 
+Or a only off ir sender, where I had ir leds send the off codes for some major brands at random times. Hide this in the living room and enjoy the parents going crazy. I had alot of laughs with that one, but it also almost cost me a new tv. 
+My latest project is a custom Math Clock where you have to use math to know the time, but you can also play snake on it! Fun for the kids. 
+
+Ofcourse you could just go buy anyone of these things.. But where is the fun in that?
 
 ## Technical Skills
 
