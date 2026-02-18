@@ -29,13 +29,15 @@ These were just some fun projects. Now I would like to step into the IT Networki
 
 <div align="center">
   <a href="https://www.credly.com/badges/fbc29323-f9e9-4b09-bbe1-35257ba6e870/public_url" target="_blank">
-    <img src="https://images.credly.com/size/200x200/images/fbc29323-f9e9-4b09-bbe1-35257ba6e870/image.png" alt="Badge 1" />
+    <img src="https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="220" alt="CCNA: Introduction to Networks" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/eb0e28a5-6b8e-477d-b32d-62bfcebd8792/public_url" target="_blank">
-    <img src="https://images.credly.com/size/200x200/images/eb0e28a5-6b8e-477d-b32d-62bfcebd8792/image.png" alt="Badge 2" />
+    <img src="https://images.credly.com/size/220x220/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="220" alt="CCNA: Switching, Routing, and Wireless Essentials" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/ee1d4b1e-e588-40d0-a0e9-604df0180cff/public_url" target="_blank">
-    <img src="https://images.credly.com/size/200x200/images/ee1d4b1e-e588-40d0-a0e9-604df0180cff/image.png" alt="Badge 3" />
+    <img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="220" alt="Introduction to Cybersecurity" />
   </a>
 </div>
 
