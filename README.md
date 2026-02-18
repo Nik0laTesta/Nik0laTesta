@@ -27,6 +27,19 @@ These were just some fun projects. Now I would like to step into the IT Networki
 
 ## Technical Skills
 
+<div align="center">
+  <a href="https://www.credly.com/badges/fbc29323-f9e9-4b09-bbe1-35257ba6e870/public_url" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/fbc29323-f9e9-4b09-bbe1-35257ba6e870/image.png" alt="Badge 1" />
+  </a>
+  <a href="https://www.credly.com/badges/eb0e28a5-6b8e-477d-b32d-62bfcebd8792/public_url" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/eb0e28a5-6b8e-477d-b32d-62bfcebd8792/image.png" alt="Badge 2" />
+  </a>
+  <a href="https://www.credly.com/badges/ee1d4b1e-e588-40d0-a0e9-604df0180cff/public_url" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/ee1d4b1e-e588-40d0-a0e9-604df0180cff/image.png" alt="Badge 3" />
+  </a>
+</div>
+
+
 ### Networking
 - OSPF, STP, EtherChannel
 - VLAN segmentation and inter-VLAN routing
