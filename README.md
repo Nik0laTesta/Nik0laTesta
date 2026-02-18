@@ -18,12 +18,12 @@ Over the last year, I've moved past the basics and into the enterprise side of t
 
 I'm a big believer in the "work smarter, not harder" approach. If a task needs to be done more than once, I'm probably trying to automate it. This mindset carries over into my hardware and IoT projects, where I've built everything I could think of. 
 
-A couple fun projects can be found on this github. 
-A gyro powered drink protector, you could strap it to you drink or bag or whatever you like, and hit a button. When the drink would move/tilt in any way out of the accepted norm it would trigger an alarm. 
-Or a only off ir sender, where I had ir leds send the off codes for some major brands at random times. Hide this in the living room and enjoy the parents going crazy. I had alot of laughs with that one, but it also almost cost me a new tv. 
-My latest project is a custom Math Clock where you have to use math to know the time, but you can also play snake on it! Fun for the kids. 
-
+A couple fun projects can be found on this github, but even more cant. If you want to hear about the "Gyro drink protector", the time my parents almost bought a new tv for no reason, the struggles of making an arduino yourself with just the chip and many more.. You should probrably hire me. :p  
+My latest project is a custom Math Clock where you have to use math to know the time, it also shows BirthDays AND you can play games like snake on it! Fun for the kids. Be sure to have a look at that one! 
 Ofcourse you could just go buy anyone of these things.. But where is the fun in that?
+
+These were just some fun projects. Now I would like to step into the IT Networking Space. To accomplish that I have been following a intense year long program where I got to encounter and play with the most used and needed protocols and architectures, giving me the technical foundation to stop just studying the network and start actually managing it.
+
 
 ## Technical Skills
 
